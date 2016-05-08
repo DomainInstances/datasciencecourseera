@@ -1,2 +1,2 @@
-# datasciencecourseera
-Create repository - datasciencecourseera
+# datasciencecoursera
+Create repository - datasciencecoursera
